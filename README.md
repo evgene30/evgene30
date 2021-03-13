@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @evgene30
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning web dev
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me evgene.fe@gmail.com
