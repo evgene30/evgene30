@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evgene30
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning HTML5+CSS3/SCSS+JS+React+Redux
+- 🌱 I’m currently learning HTML5+CSS3/SCSS+JS+React+Redux+Python+Flask
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me evgene.fe@gmail.com
