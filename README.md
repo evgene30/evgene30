@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @evgene30
 - 👀 I’m frontend development
-- 🌱 HTML5+CSS3/SCSS, JS, React, Redux, Python(Flask)
+- 🌱 JS, TS, React, Redux, MUI
 - 📫 How to reach me evgene.fe@gmail.com
